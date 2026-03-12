@@ -79,7 +79,7 @@ Sum of Total Transaciton Amount by Card Category
 Insights:
 
 Blue Card customers generate nearly 89% of total transactions.
-Bills, Entertainment, and Fuel** are the top spending categories.
+Bills, Entertainment, and Fuel are the top spending categories.
 Online transactions are steadily increasing.
 Male customers contribute slightly higher total revenue, while female customers have a higher average income per transaction.
 
